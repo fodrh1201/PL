@@ -1,0 +1,13 @@
+﻿빌드 시작: 2014-07-11 오후 4:06:04
+     1>2 노드의 "C:\Users\고형진\Documents\PLin_C++\Practice\Practice\Practice.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Hello.cpp
+         Hello.cpp
+     1>c:\users\고형진\documents\plin_c++\practice\practice\hello.cpp(12): error C2086: 'int a' : 재정의
+                 c:\users\고형진\documents\plin_c++\practice\practice\hello.cpp(5) : 'a' 선언을 참조하십시오.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): error MSB6006: "CL.exe"이(가) 종료되었습니다(코드: 2).
+     1>"C:\Users\고형진\Documents\PLin_C++\Practice\Practice\Practice.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.39
